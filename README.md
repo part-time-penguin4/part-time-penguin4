@@ -23,8 +23,8 @@ Helped craft this high-flying adventure packed with power-ups, perilous platform
 - I can talk for hours about physics-based platformers!
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-linkedin-url-here)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](your-twitter-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yusuf-demirel-b98338351 )
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/Yusuf5714)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=internet-explorer)](your-portfolio-url-here)
 
 ---

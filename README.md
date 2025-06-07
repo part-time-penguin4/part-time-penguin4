@@ -32,6 +32,7 @@ Hi there! I’m part-time-penguin4 — a curious explorer in the world of **game
 - 🎮 Game Designer with a passion for playful mechanics and engaging worlds
 - 🛠️ Builder of elegant and efficient data structures
 - 👾 Unity enthusiast and C# wizard
+- 
 
 ## ⭐ Favorite Project
 ### [Rocket Boost](#)
@@ -43,6 +44,7 @@ Helped craft this high-flying adventure packed with power-ups, perilous platform
 - C#
 - Game prototyping & level design
 - Data structure optimization
+- 3D environment and character design 
 
 ## 🎲 Fun Facts
 - I believe every game needs a secret penguin somewhere 🐧

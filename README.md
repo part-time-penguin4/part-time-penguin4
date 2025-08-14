@@ -28,28 +28,6 @@ Hi there! I’m part-time-penguin4 — a curious explorer in the world of **game
 
 ###
 
-## 🚀 What I Do
-- 🎮 Game Designer with a passion for playful mechanics and engaging worlds
-- 🛠️ Builder of elegant and efficient data structures
-- 👾 Unity enthusiast and C# wizard
-- 
-
-## ⭐ Favorite Project
-### [Rocket Boost](#)
-Helped craft this high-flying adventure packed with power-ups, perilous platforms, and plenty of penguin personality.  
-*Want to soar? Check out Rocket Boost!*
-
-## 🧰 Skills & Tools
-- Unity (2D & 3D)
-- C#
-- Game prototyping & level design
-- Data structure optimization
-- 3D environment and character design 
-
-## 🎲 Fun Facts
-- I believe every game needs a secret penguin somewhere 🐧
-- I can talk for hours about physics-based platformers!
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yusuf-demirel-b98338351 )
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/Yusuf5714)
@@ -57,5 +35,4 @@ Helped craft this high-flying adventure packed with power-ups, perilous platform
 
 ---
 
-> “Keep your code cool and your gameplay cooler!” ❄️
 

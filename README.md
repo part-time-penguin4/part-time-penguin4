@@ -1,4 +1,4 @@
-# 🐧 part-time-penguin4
+# part-time-penguin4
 
 Hi there!
 <div align="center">

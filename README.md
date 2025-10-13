@@ -1,6 +1,6 @@
 # 🐧 part-time-penguin4
 
-Hi there! I’m part-time-penguin4 — a curious explorer in the world of **game design** and an architect of clever **data structures**. I love turning wild ideas into interactive experiences!
+Hi there!
 <div align="center">
 </div>
 
